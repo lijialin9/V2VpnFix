@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fix.v2vpn_wsafix"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:5:5-24:19
+12        android:allowBackup="true"
+12-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="@string/app_name"
+15-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:7:9-41
+16        android:supportsRtl="true"
+16-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:8:9-35
+17        android:theme="@style/Theme.V2VpnFix" >
+17-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:9:9-46
+18        <meta-data
+18-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:12:9-14:36
+19            android:name="xposedmodule"
+19-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:13:13-40
+20            android:value="true" />
+20-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:14:13-33
+21        <meta-data
+21-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:16:9-18:67
+22            android:name="xposeddescription"
+22-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:17:13-45
+23            android:value="Fix v2vpn on WSA (prepare+onRevoke)" />
+23-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:18:13-64
+24        <meta-data
+24-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:20:9-22:34
+25            android:name="xposedminversion"
+25-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:21:13-44
+26            android:value="93" />
+26-->E:\Trae CN\trae_projects\V2VpnFix\app\src\main\AndroidManifest.xml:22:13-31
+27    </application>
+28
+29</manifest>

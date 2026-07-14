@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Trae CN\\trae_projects\\V2VpnFix\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Trae CN\\trae_projects\\V2VpnFix\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,1,2,3,4,6",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "192,16,61,106,149,234",
+                        "endColumns": "41,44,44,42,42,41",
+                        "endOffsets": "229,56,101,144,187,271"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,142,187,230,273",
+                        "endColumns": "41,44,44,42,42,41",
+                        "endOffsets": "92,137,182,225,268,310"
+                    }
+                },
+                {
+                    "source": "E:\\Trae CN\\trae_projects\\V2VpnFix\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "315",
+                        "endColumns": "45",
+                        "endOffsets": "356"
+                    }
+                },
+                {
+                    "source": "E:\\Trae CN\\trae_projects\\V2VpnFix\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "63",
+                        "endLines": "2",
+                        "endColumns": "12",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "361",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "451"
+                    }
+                }
+            ]
+        }
+    ]
+}

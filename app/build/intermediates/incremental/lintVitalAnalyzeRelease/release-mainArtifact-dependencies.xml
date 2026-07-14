@@ -1,0 +1,7 @@
+<dependencies>
+  <compile
+      roots="__local_aars__:E:\Trae CN\trae_projects\V2VpnFix\app\libs\xposed-stub-82.jar:unspecified@jar">
+    <dependency
+        name="__local_aars__:E:\Trae CN\trae_projects\V2VpnFix\app\libs\xposed-stub-82.jar:unspecified@jar"/>
+  </compile>
+</dependencies>

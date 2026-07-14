@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="E:\Trae CN\trae_projects\V2VpnFix\app"
+    name=":app"
+    type="APP"
+    maven="V2VpnFix:app:"
+    gradle="7.0.4"
+    buildFolder="build"
+    bootClassPath="E:\Android\android-sdk\platforms\android-33\android.jar;E:\Android\android-sdk\build-tools\33.0.2\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

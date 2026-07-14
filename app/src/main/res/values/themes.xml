@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.V2VpnFix" parent="android:Theme.Holo.Light.DarkActionBar">
+    </style>
+</resources>

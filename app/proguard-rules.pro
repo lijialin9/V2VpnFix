@@ -1,0 +1,2 @@
+-keep class com.fix.v2vpn_wsafix.** { *; }
+-dontwarn de.robv.android.xposed.**

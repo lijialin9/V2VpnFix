@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fix.v2vpn_wsafix"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="33" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.V2VpnFix" >
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="Fix v2vpn on WSA (prepare+onRevoke)" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="93" />
+    </application>
+
+</manifest>

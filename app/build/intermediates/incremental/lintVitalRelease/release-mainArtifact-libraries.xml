@@ -1,0 +1,7 @@
+<libraries>
+  <library
+      name="__local_aars__:E:\Trae CN\trae_projects\V2VpnFix\app\libs\xposed-stub-82.jar:unspecified@jar"
+      jars="E:\Trae CN\trae_projects\V2VpnFix\app\libs\xposed-stub-82.jar"
+      resolved="__local_aars__:E:\Trae CN\trae_projects\V2VpnFix\app\libs\xposed-stub-82.jar:unspecified"
+      provided="true"/>
+</libraries>

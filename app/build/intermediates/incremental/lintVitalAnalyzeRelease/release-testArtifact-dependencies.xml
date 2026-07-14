@@ -1,0 +1,8 @@
+<dependencies>
+  <compile
+      roots="E:\Trae CN\trae_projects\V2VpnFix@@:app::release">
+    <dependency
+        name="E:\Trae CN\trae_projects\V2VpnFix@@:app::release"
+        simpleName=":"/>
+  </compile>
+</dependencies>
